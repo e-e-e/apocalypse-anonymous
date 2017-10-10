@@ -1722,12 +1722,12 @@
       $('input').prop('disabled', true);
       $('textarea').prop('disabled', true);
       /* when a user clicks, toggle the 'is-animating' class */
-      $(".heart").on('click touchstart', function(){
+      $('.heart').on('click touchstart', function () {
         $(this).toggleClass('is_animating');
       });
 
       /*when the animation is over, remove the class*/
-      $(".heart").on('animationend', function(){
+      $('.heart').on('animationend', function () {
         $(this).toggleClass('is_animating');
       });
 
@@ -1736,5 +1736,5 @@
 </script>
 
 <style lang="css">
-  
+
 </style>
