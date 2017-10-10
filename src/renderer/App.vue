@@ -26,9 +26,9 @@
           <b>Eodl5: 5 hours ago </b>
         </p>
         <div>
-            <video autoplay loop width="99%">
-              <source src="static/media/birds.mp4" type="video/mp4">
-            </video>
+          <video class="thevideo video" loop>
+            <source id="mp4" src="static/media/birds.mp4" type="video/mp4">
+          </video>
         </div>
         <p> <small>24,560 views </small></p>
         <i class="fa fa-thumbs-o-up grow"></i>
@@ -69,8 +69,8 @@
         <p>
           <b>Ywak: September 15th 2017</b>
           <br>
-            <video autoplay loop width="99%">
-              <source src="static/media/tsunami.mp4" type="video/mp4">
+            <video class="thevideo video" loop>
+              <source id="mp4" src="static/media/tsunami.mp4" type="video/mp4">
             </video>
             <br>
           <small>28,456 views </small>
@@ -378,9 +378,9 @@
         <p>
           <b>Vheb3: 30 July 2017</b>
           <br>
-          <video class="thevideo video" loop>
-          <source id="mp4" src="static/media/fire.mp4" type="video/mp4">
-        </video>
+            <video class="thevideo video" loop>
+              <source id="mp4" src="static/media/fire.mp4" type="video/mp4">
+            </video>
           <br>
           <small>91,285 views </small>
         </p>
@@ -631,7 +631,9 @@
           <br>
           Man, fish really are suffering some of the worst out of any critters on the planet
           <br>
-          <video autoplay loop src="static/media/deadfish.mp4"></video>
+            <video class="thevideo video" loop>
+              <source id="mp4" src="static/media/deadfish.mp4" type="video/mp4">
+            </video>
           <br>
           <small>74,983 views </small>
         </p>
@@ -775,7 +777,9 @@
         <p>
           <b>Jkaz9: May 6th, 2017</b>
           <br>
-          <video autoplay loop src="static/media/landslide.mp4" width="90%"></video>
+            <video class="thevideo video" loop>
+              <source id="mp4" src="static/media/landslide.mp4" type="video/mp4">
+            </video>
           <br>
           <small>56,394 views </small>
         </p>
@@ -1345,7 +1349,9 @@
         <p>
           <b>Ujsx3: February 20th, 2017</b>
           <br>
-          <video autoplay loop src"media/nasa.mp4"></video>
+            <video class="thevideo video" loop>
+              <source id="mp4" src="static/media/nasa.mp4" type="video/mp4">
+            </video>
           <br>
           <small>26,339 views </small>
         </p>
@@ -1467,7 +1473,9 @@
         <p>
           <b>Wush6: January 5th, 2017</b>
           <br>
-          <video src="static/media/door.mp4" autoplay loop></video>
+            <video class="thevideo video" loop>
+              <source id="mp4" src="static/media/door.mp4" type="video/mp4">
+            </video>
           <br>
           <small>48,299 views </small>
         </p>
