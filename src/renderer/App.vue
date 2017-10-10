@@ -1729,12 +1729,8 @@
         $(obj).on('mouseover', () => { hoverVideo(i); });
         $(obj).on('mouseout', () => { hideVideo(i); });
       });
-    },
-    beforeDestroy() {
-    },
-    computed: {
-    },
-    methods: {
+      $('input').prop('disabled', true);
+      $('textarea').prop('disabled', true);
     },
 };
 </script>
