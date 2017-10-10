@@ -1720,12 +1720,8 @@ https://www.facebook.com/mikeferrigan1/videos/1487418231315541/
         $(obj).on('mouseover', () => { hoverVideo(i); });
         $(obj).on('mouseout', () => { hideVideo(i); });
       });
-    },
-    beforeDestroy() {
-    },
-    computed: {
-    },
-    methods: {
+      $('input').prop('disabled', true);
+      $('textarea').prop('disabled', true);
     },
 };
 </script>
