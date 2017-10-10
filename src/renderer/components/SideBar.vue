@@ -2,7 +2,7 @@
   <!--RIGHT PINNED POST-->
   <div class="fl-ns w-40-ns ph2 h1-ns">
     <p class="lh-copy mv1  pa3 f6 ba br3 bw0.5 bg-white shadow-1">
-      <i class="fa">&#xf08d;</i>
+      <i class="fa dark-blue" style="font-size:24px">&#xf08d;</i>
       <br></br>
       <b>Apocalypse Anonymous:
       Global Collapse Support Group</b>

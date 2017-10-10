@@ -2,8 +2,8 @@
   <div class="cf-ns nl2 nr2 mw8-ns center ma3 ">
     <div class="fl-ns w-60-ns ph2 h1-ns">
       <!-- IMAGE HEAD -->
-      <div class="cf-ns nl1 nr2 h9 pa1">
-        <img src="https://accuweather.brightspotcdn.com/88/ac/35ae029048ac85555f0f6535a88f/new-zealand-flooding.jpg" alt="Flooding"/>
+      <div class="cf-ns nl1 nr2 h9 pa2">
+        <img src="static/media/banner.jpg" alt="Flooding" class="br3 overflow-hidden"/>
       </div>
 
       <!-- TITLE -->
@@ -16,8 +16,8 @@
       <!-- MAKE A POST-->
       <div class=" mv3 lh-copy mv1 pa3 f6 ba br3 bw0.5 bg-white shadow-1">
         <p>
-          <b><i class="material-icons" style="font-size:15px">edit</i> Write a Post:</b></p>
-      
+          <b><i class="material-icons dark-blue" style="font-size:25px">edit</i> Write a Post:</b></p>
+
           <!-- Write a Post -->
             <textarea name="message" rows="10" cols="70"></textarea>
             <br></br>
