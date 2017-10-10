@@ -378,7 +378,9 @@
         <p>
           <b>Vheb3: 30 July 2017</b>
           <br>
-          <video autoplay loop src="media/landslide.mp4" width="90%"></video>
+          <video class="thevideo video" loop>
+          <source id="mp4" src="static/media/fire.mp4" type="video/mp4">
+        </video>
           <br>
           <small>91,285 views </small>
         </p>
