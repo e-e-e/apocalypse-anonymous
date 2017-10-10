@@ -1691,6 +1691,7 @@
 
 <script>
   import $ from 'jquery';
+  import _ from 'lodash';
   import AAHeader from 'components/Header';
   import AAContent from 'components/Content';
   import AAPost from 'components/Post';
@@ -1708,17 +1709,37 @@
     created() {
     },
     mounted() {
-      function hoverVideo(i) {
-        $('video')[i].play();
+      function isScrolledIntoView(el) {
+        const elemTop = el.getBoundingClientRect().top;
+        const elemBottom = el.getBoundingClientRect().bottom;
+
+        const isVisible = (elemTop >= 0) && (elemBottom <= window.innerHeight);
+        return isVisible;
+      }
+      function playVideos() {
+        $('video').each((i, obj) => {
+          if (isScrolledIntoView(obj)) {
+            obj.play();
+          } else if (!obj.paused) {
+            obj.pause();
+          }
+        });
       }
 
-      function hideVideo(i) {
-        $('video')[i].pause();
-      }
-      $('video').each((i, obj) => {
-        $(obj).on('mouseover', () => { hoverVideo(i); });
-        $(obj).on('mouseout', () => { hideVideo(i); });
-      });
+      const onScroll = _.throttle(playVideos, 100);
+
+      $(window).scroll(onScroll);
+      // function hoverVideo(i) {
+      //   $('video')[i].play();
+      // }
+
+      // function hideVideo(i) {
+      //   $('video')[i].pause();
+      // }
+      // $('video').each((i, obj) => {
+      //   $(obj).on('mouseover', () => { hoverVideo(i); });
+      //   $(obj).on('mouseout', () => { hideVideo(i); });
+      // });
       $('input').prop('disabled', true);
       $('textarea').prop('disabled', true);
       /* when a user clicks, toggle the 'is-animating' class */
