@@ -26,7 +26,7 @@
           <b>Eodl5: 5 hours ago </b>
         </p>
         <div>
-          <video class="thevideo video" loop>
+          <video  loop>
             <source id="mp4" src="static/media/birds.mp4" type="video/mp4">
           </video>
         </div>
@@ -69,7 +69,7 @@
         <p>
           <b>Ywak: September 15th 2017</b>
           <br>
-            <video class="thevideo video" loop>
+            <video  loop>
               <source id="mp4" src="static/media/tsunami.mp4" type="video/mp4">
             </video>
             <br>
@@ -378,7 +378,7 @@
         <p>
           <b>Vheb3: 30 July 2017</b>
           <br>
-            <video class="thevideo video" loop>
+            <video  loop>
               <source id="mp4" src="static/media/fire.mp4" type="video/mp4">
             </video>
           <br>
@@ -631,7 +631,7 @@
           <br>
           Man, fish really are suffering some of the worst out of any critters on the planet
           <br>
-            <video class="thevideo video" loop>
+            <video  loop>
               <source id="mp4" src="static/media/deadfish.mp4" type="video/mp4">
             </video>
           <br>
@@ -777,7 +777,7 @@
         <p>
           <b>Jkaz9: May 6th, 2017</b>
           <br>
-            <video class="thevideo video" loop>
+            <video  loop>
               <source id="mp4" src="static/media/landslide.mp4" type="video/mp4">
             </video>
           <br>
@@ -1349,7 +1349,7 @@
         <p>
           <b>Ujsx3: February 20th, 2017</b>
           <br>
-            <video class="thevideo video" loop>
+            <video  loop>
               <source id="mp4" src="static/media/nasa.mp4" type="video/mp4">
             </video>
           <br>
@@ -1473,7 +1473,7 @@
         <p>
           <b>Wush6: January 5th, 2017</b>
           <br>
-            <video class="thevideo video" loop>
+            <video  loop>
               <source id="mp4" src="static/media/door.mp4" type="video/mp4">
             </video>
           <br>
