@@ -19,6 +19,7 @@ function createWindow() {
    * Initial window options
    */
   mainWindow = new BrowserWindow({
+    kiosk: process.env.NODE_ENV !== 'development',
     height: 563,
     useContentSize: true,
     width: 1000,
