@@ -1733,8 +1733,4 @@
 </script>
 
 <style lang="scss">
-  // selectively import tachyons
-  // $fa-font-path:"./fonts";
-  // @import './node_modules/tachyons-sass/tachyons.scss';
-  // @import './node_modules/font-awesome/scss/font-awesome.scss';
 </style>
