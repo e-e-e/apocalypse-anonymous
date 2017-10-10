@@ -26,7 +26,7 @@
           <b>Eodl5: 5 hours ago </b>
         </p>
         <div>
-          <video  loop>
+          <video class="w-100" loop>
             <source id="mp4" src="static/media/birds.mp4" type="video/mp4">
           </video>
         </div>
@@ -69,7 +69,7 @@
         <p>
           <b>Ywak: September 15th 2017</b>
           <br>
-            <video  loop>
+            <video class="w-100" loop>
               <source id="mp4" src="static/media/tsunami.mp4" type="video/mp4">
             </video>
             <br>
@@ -378,7 +378,7 @@
         <p>
           <b>Vheb3: 30 July 2017</b>
           <br>
-            <video  loop>
+            <video class="w-100" loop>
               <source id="mp4" src="static/media/fire.mp4" type="video/mp4">
             </video>
           <br>
@@ -519,7 +519,9 @@
         <p>
           <b>Resh5: June 18th, 2017</b>
           <br>
-          [embded video https://www.facebook.com/JukinVideo/videos/1036106559810947/]
+            <video class="w-100" loop>
+              <source id="mp4" src="static/media/tractor.mp4" type="video/mp4">
+            </video>
           <br>
           <small>87,471 views </small>
         </p>
@@ -631,7 +633,7 @@
           <br>
           Man, fish really are suffering some of the worst out of any critters on the planet
           <br>
-            <video  loop>
+            <video class="w-100" loop>
               <source id="mp4" src="static/media/deadfish.mp4" type="video/mp4">
             </video>
           <br>
@@ -777,7 +779,7 @@
         <p>
           <b>Jkaz9: May 6th, 2017</b>
           <br>
-            <video  loop>
+            <video class="w-100" loop>
               <source id="mp4" src="static/media/landslide.mp4" type="video/mp4">
             </video>
           <br>
@@ -1349,7 +1351,7 @@
         <p>
           <b>Ujsx3: February 20th, 2017</b>
           <br>
-            <video  loop>
+            <video class="w-100" loop>
               <source id="mp4" src="static/media/nasa.mp4" type="video/mp4">
             </video>
           <br>
@@ -1473,7 +1475,7 @@
         <p>
           <b>Wush6: January 5th, 2017</b>
           <br>
-            <video  loop>
+            <video class="w-100" loop>
               <source id="mp4" src="static/media/door.mp4" type="video/mp4">
             </video>
           <br>
@@ -1621,9 +1623,9 @@
         <p>
           <b>Ksji5: October 5th, 2016</b>
           <br>
-          [embed LINK NOT AVAILABLE]
-https://www.facebook.com/mikeferrigan1/videos/1487418231315541/
-
+          <video class="w-100" loop>
+            <source id="mp4" src="static/media/penguins.mp4" type="video/mp4">
+          </video>
           <br>
           <small>76,492 views </small>
         </p>
