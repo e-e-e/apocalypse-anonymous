@@ -1717,7 +1717,7 @@
         const elemTop = el.getBoundingClientRect().top;
         const elemBottom = el.getBoundingClientRect().bottom;
 
-        const isVisible = (elemTop >= 0) && (elemBottom <= window.innerHeight);
+        const isVisible = (elemBottom >= 0) && (elemTop <= window.innerHeight);
         return isVisible;
       }
       function playVideos() {
