@@ -333,7 +333,7 @@
       <!--POST 12-->
       <a-a-post>
         <p>
-          <b>000000000</b>
+          <b>Juyt6: 1 August, 2017 </b>
           <br>
           Let’s look at the facts.
           <br/>
@@ -378,7 +378,7 @@
         <p>
           <b>Vheb3: 30 July 2017</b>
           <br>
-          [fire]
+          <video autoplay loop src="media/landslide.mp4" width="90%"></video>
           <br>
           <small>91,285 views </small>
         </p>
