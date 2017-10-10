@@ -170,7 +170,7 @@
         <p>
           <b>Plaj5: 10 September 2017</b>
            <br></br>
-            <img src="static/media/flights.jpg"/>
+            <img class="w-100" src="static/media/flights.jpg"/>
            <br></br>
           <small>3,980 views </small>
         </p>

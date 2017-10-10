@@ -22,8 +22,8 @@
             <textarea name="message" rows="10" cols="70"></textarea>
             <br></br>
           <!-- Add Media -->
-        <button type="button" onclick="alert('Sorry! The service is currently disrupted.')"><i class="material-icons" style="font-size:15px">image</i> Add an image</button>
-        <button type="button" onclick="alert('Sorry! The service is currently disrupted.')"> <i class="material-icons" style="font-size:15px">add_a_photo</i>  Add a video</button>
+        <button type="button" onclick="alert('Sorry! The service is currently disrupted.')"><i class="material-icons dark-blue" style="font-size:15px">image</i> Add an image</button>
+        <button type="button" onclick="alert('Sorry! The service is currently disrupted.')"> <i class="material-icons dark-blue" style="font-size:15px">add_a_photo</i>  Add a video</button>
         <br></br>
         <a class="f6 link dim ph2 pv0.3 br2 mb2 dib white bg-dark-blue" href="#0">submit</a>
       </div>
