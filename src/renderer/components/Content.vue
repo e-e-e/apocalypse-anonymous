@@ -2,8 +2,8 @@
   <div class="cf-ns nl2 nr2 mw8-ns center ma3 ">
     <div class="fl-ns w-60-ns ph2 h1-ns">
       <!-- IMAGE HEAD -->
-      <div class="cf-ns nl1 nr2 h9 pa2">
-        <img src="static/media/banner.jpg" alt="Flooding" class="br3 overflow-hidden"/>
+      <div class="cf-ns nl1 nr2 h9 pl1 pr2">
+        <img src="static/media/banner.jpg" alt="Flooding" class="br3 overflow-hidden ba"/>
       </div>
 
       <!-- TITLE -->
