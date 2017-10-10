@@ -17,7 +17,7 @@
       <div class=" mv3 lh-copy mv1 pa3 f6 ba br3 bw0.5 bg-white shadow-1">
         <p>
           <b><i class="material-icons" style="font-size:15px">edit</i> Write a Post:</b></p>
-          <br></br>
+      
           <!-- Write a Post -->
             <textarea name="message" rows="10" cols="70"></textarea>
             <br></br>
