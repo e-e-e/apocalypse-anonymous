@@ -158,7 +158,7 @@
         <!-- comments -->
         <hr>
         <form>
-          <div class="form-group form">
+          <div class="form-group form" >
             <label for="input-lg"><p>Comments:</p></label>
             <input class="form-control" id="inputlg" placeholder="..." type="text" size="79%">
          </div>
@@ -178,7 +178,7 @@
         <!-- comments -->
         <hr>
         <form>
-          <div class="form-group form">
+          <div class="form-group form" >
             <label for="input-lg"><p>Comments:</p></label>
             <input class="form-control" id="inputlg" placeholder="..." type="text" size="79%">
          </div>
@@ -199,7 +199,7 @@
         <!-- comments -->
         <hr>
         <form>
-          <div class="form-group form">
+          <div class="form-group form grey">
             <label for="input-lg"><p>Comments:</p></label>
             <p><b>Qpla3:</b> That’s not prepping. That is called being a shit human.
              <br></br>
@@ -228,7 +228,7 @@
         <!-- comments -->
         <hr>
         <form>
-          <div class="form-group form">
+          <div class="form-group form" >
             <label for="input-lg"><p>Comments:</p></label>
             <p>
               <b>spor1:</b> Oh, how I mourn for us all...
@@ -1755,5 +1755,8 @@
 </script>
 
 <style lang="css">
+  form p {
+    color: #696969;
+  }
 
 </style>
