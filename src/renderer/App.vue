@@ -1735,7 +1735,7 @@
       $(window).scroll(() => {
         onScroll();
         if ($(window).scrollTop() + $(window).height() >= $(document).height()) {
-          $('html, body').animate({ scrollTop: 0 }, 1000  );
+          $('html, body').animate({ scrollTop: 0 }, 1000);
         }
       });
 
