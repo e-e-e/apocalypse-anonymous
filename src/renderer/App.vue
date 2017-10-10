@@ -1732,18 +1732,13 @@
 
       const onScroll = _.throttle(playVideos, 100);
 
-      $(window).scroll(onScroll);
-      // function hoverVideo(i) {
-      //   $('video')[i].play();
-      // }
+      $(window).scroll(() => {
+        onScroll();
+        if ($(window).scrollTop() + $(window).height() >= $(document).height()) {
+          $('html, body').animate({ scrollTop: 0 }, 1000);
+        }
+      });
 
-      // function hideVideo(i) {
-      //   $('video')[i].pause();
-      // }
-      // $('video').each((i, obj) => {
-      //   $(obj).on('mouseover', () => { hoverVideo(i); });
-      //   $(obj).on('mouseout', () => { hideVideo(i); });
-      // });
       $('input').prop('disabled', true);
       $('textarea').prop('disabled', true);
       /* when a user clicks, toggle the 'is-animating' class */
@@ -1751,11 +1746,10 @@
         $(this).toggleClass('is_animating');
       });
 
-      /*when the animation is over, remove the class*/
+      /* when the animation is over, remove the class */
       $('.heart').on('animationend', function () {
         $(this).toggleClass('is_animating');
       });
-
     },
 };
 </script>
