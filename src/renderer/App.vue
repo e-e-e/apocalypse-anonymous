@@ -274,7 +274,14 @@
         <p>
           <b>Jeun3: 1 September 2017</b>
           <br>
-          <iframe src="https://imgur.com/a/1VRvV"></iframe>
+            <img src="static/media/jgallery1.png"></img>
+            <img src="static/media/jgallery2.png"></img>
+            <img src="static/media/jgallery3.png"></img>
+            <img src="static/media/jgallery4.png"></img>
+            <img src="static/media/jgallery5.png"></img>
+            <img src="static/media/jgallery6.png"></img>
+            <img src="static/media/jgallery7.png"></img>
+            <img src="static/media/jgallery8.png"></img>
           <br>
           <small>102,538 views </small>
         </p>
