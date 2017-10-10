@@ -1686,7 +1686,7 @@
         </form>
       </a-a-post>
       <div class="tc center w-100">
-        <img src="/static/media/fire.gif" height="200rem"></img>
+        <img src="static/media/fires.gif" height="200rem"></img>
       </div>
     </a-a-content>
 
