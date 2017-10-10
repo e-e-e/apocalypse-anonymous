@@ -2,24 +2,7 @@
   <div class="sans-serif bg-light-gray">
     <a-a-header></a-a-header>
     <a-a-content>
-      <a-a-post>
-        <p>
-          <b>Plaj5: 10 September 2017</b>
-           <br></br>
-            <img src="https://i.redditmedia.com/n81IJgQxe0L823ED2XA19ow_5gZHLWQDwpBsE9ebny4.jpg?w=500&s=f8e622ef89cbde083ee29fc98467572a"/>
-           <br></br>
-          <small>3,980 views </small>
-        </p>
-        <i class="fa fa-thumbs-o-up grow"></i>
-        <!-- comments -->
-        <hr>
-        <form>
-          <div class="form-group form">
-            <label for="input-lg"><p>Comments:</p></label>
-            <input class="form-control" id="inputlg" placeholder="..." type="text" size="79%">
-         </div>
-        </form>
-      </a-a-post>
+    
       <!--POST 1-->
       <a-a-post>
         <p>
@@ -274,14 +257,21 @@
         <p>
           <b>Jeun3: 1 September 2017</b>
            <br></br>
-            <img src="static/media/jgallery1.png"></img>
-            <img src="static/media/jgallery2.png"></img>
-            <img src="static/media/jgallery3.png"></img>
-            <img src="static/media/jgallery4.png"></img>
-            <img src="static/media/jgallery5.png"></img>
-            <img src="static/media/jgallery6.png"></img>
-            <img src="static/media/jgallery7.png"></img>
-            <img src="static/media/jgallery8.png"></img>
+            <img src="static/media/jgallery1.png" class="w-100"></img>
+            <br></br>
+            <img src="static/media/jgallery2.png" class="w-100"></img>
+            <br></br>
+            <img src="static/media/jgallery3.png" class="w-100"></img>
+            <br></br>
+            <img src="static/media/jgallery4.png" class="w-100"></img>
+            <br></br>
+            <img src="static/media/jgallery5.png" class="w-100"></img>
+            <br></br>
+            <img src="static/media/jgallery6.png" class="w-100"></img>
+            <br></br>
+            <img src="static/media/jgallery7.png" class="w-100"></img>
+            <br></br>
+            <img src="static/media/jgallery8.png" class="w-100"></img>
            <br></br>
           <small>102,538 views </small>
         </p>
@@ -727,7 +717,7 @@
           <br/>
           <a href="https://www.facebook.com/hashtag/neverseenthisbefore?source=feed_text">#NeverSeenThisBefore#ArmageddonNewYorkLakeBlob</a> <a href="https://www.facebook.com/hashtag/yuck?source=feed_text">#Yuck</a>
            <br></br>
-          <img src="static/media/algae.png"/>
+          <img src="static/media/algae.png" class="w-100"/>
           <small>29,774 views </small>
         </p>
           <i class="fa fa-thumbs-o-up grow"></i>
@@ -864,7 +854,7 @@
         <p>
           <b>Ros17: May 7th, 2017</b>
            <br></br>
-          <img src="static/media/reddit.jpg"/>
+          <img src="static/media/reddit.jpg" class="w-100"/>
            <br></br>
           <small>32,894 views </small>
         </p>
@@ -1603,7 +1593,7 @@
           <b>Hjxm4: November 22nd, 2016</b>
            <br></br>
           An organisation just called me to see if I would like to attend a conference on solar panels. The poor man was sorry he called me and was terrified by what I said I had learned in the last 3 years he then wanted me to come and speak at this conference I declined as I told him I would rather spend my time immersing myself in the beauty of a sunset and give thanks for the day with the hope that I will get to be present for the sheer miracle of another one.
-          <img src="static/media/sky.png"/>
+          <img src="static/media/sky.png" class="w-100"/>
            <br></br>
           <small>81,440 views </small>
         </p>
@@ -1657,7 +1647,7 @@
            <br></br>
           Here in MD, beginning of Sept, the oak leaves are beginning to fall to the ground. But, my english laurel and other holly bushes are all putting on new growth, just like in spring. And today, I happened across this:
            <br></br>
-          <img src="static/media/flower.jpeg"/>
+          <img src="static/media/flower.jpeg" class="w-100"/>
            <br></br>
           A bloom - I started to tear up - too much for this old woman to take - especially one with grandkids...
            <br></br>
