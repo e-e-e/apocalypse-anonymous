@@ -1687,14 +1687,13 @@ https://www.facebook.com/mikeferrigan1/videos/1487418231315541/
         </form>
       </a-a-post>
     </a-a-content>
-    <a-a-side-bar></a-a-side-bar>
   </div>
 </template>
 
 <script>
+  import $ from 'jquery';
   import AAHeader from 'components/Header';
   import AAContent from 'components/Content';
-  import AASideBar from 'components/SideBar';
   import AAPost from 'components/Post';
 
   export default {
@@ -1702,13 +1701,25 @@ https://www.facebook.com/mikeferrigan1/videos/1487418231315541/
     components: {
       AAHeader,
       AAContent,
-      AASideBar,
       AAPost,
     },
     data() {
       return {};
     },
     created() {
+    },
+    mounted() {
+      function hoverVideo(i) {
+        $('video')[i].play();
+      }
+
+      function hideVideo(i) {
+        $('video')[i].pause();
+      }
+      $('video').each((i, obj) => {
+        $(obj).on('mouseover', () => { hoverVideo(i); });
+        $(obj).on('mouseout', () => { hideVideo(i); });
+      });
     },
     beforeDestroy() {
     },

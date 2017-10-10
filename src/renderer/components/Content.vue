@@ -29,13 +29,17 @@
       </div>
       <slot></slot>
     </div>
+    <a-a-side-bar/>
   </div>
 </template>
 
 <script>
+  import AASideBar from 'components/SideBar';
+
   export default {
     name: 'Content',
     components: {
+      AASideBar,
     },
     data() {
       return {};
