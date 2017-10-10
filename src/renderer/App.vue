@@ -27,7 +27,7 @@
         </p>
         <div>
             <video autoplay loop width="99%">
-              <source src="media/birds.mp4" type="video/mp4">
+              <source src="static/media/birds.mp4" type="video/mp4">
             </video>
         </div>
         <p> <small>24,560 views </small></p>
@@ -70,7 +70,7 @@
           <b>Ywak: September 15th 2017</b>
           <br>
             <video autoplay loop width="99%">
-              <source src="media/tsunami.mp4" type="video/mp4">
+              <source src="static/media/tsunami.mp4" type="video/mp4">
             </video>
             <br>
           <small>28,456 views </small>
@@ -629,7 +629,7 @@
           <br>
           Man, fish really are suffering some of the worst out of any critters on the planet
           <br>
-          <video autoplay loop src="media/deadfish.mp4"></video>
+          <video autoplay loop src="static/media/deadfish.mp4"></video>
           <br>
           <small>74,983 views </small>
         </p>
@@ -714,7 +714,7 @@
           <br/>
           <a href="https://www.facebook.com/hashtag/neverseenthisbefore?source=feed_text">#NeverSeenThisBefore#ArmageddonNewYorkLakeBlob</a> <a href="https://www.facebook.com/hashtag/yuck?source=feed_text">#Yuck</a>
           <br>
-          <img src="media/algae.png"/>
+          <img src="static/media/algae.png"/>
           <small>29,774 views </small>
         </p>
           <i class="fa fa-thumbs-o-up grow"></i>
@@ -773,7 +773,7 @@
         <p>
           <b>Jkaz9: May 6th, 2017</b>
           <br>
-          <video autoplay loop src="media/landslide.mp4" width="90%"></video>
+          <video autoplay loop src="static/media/landslide.mp4" width="90%"></video>
           <br>
           <small>56,394 views </small>
         </p>
@@ -849,7 +849,7 @@
         <p>
           <b>Ros17: May 7th, 2017</b>
           <br>
-          <img src="media/reddit.jpg"/>
+          <img src="static/media/reddit.jpg"/>
           <br>
           <small>32,894 views </small>
         </p>
@@ -1465,7 +1465,7 @@
         <p>
           <b>Wush6: January 5th, 2017</b>
           <br>
-          <video src="media/door.mp4" autoplay loop></video>
+          <video src="static/media/door.mp4" autoplay loop></video>
           <br>
           <small>48,299 views </small>
         </p>
@@ -1584,7 +1584,7 @@
           <b>Hjxm4: November 22nd, 2016</b>
           <br>
           An organisation just called me to see if I would like to attend a conference on solar panels. The poor man was sorry he called me and was terrified by what I said I had learned in the last 3 years he then wanted me to come and speak at this conference I declined as I told him I would rather spend my time immersing myself in the beauty of a sunset and give thanks for the day with the hope that I will get to be present for the sheer miracle of another one.
-          <img src="sky.png"/>
+          <img src="static/media/sky.png"/>
           <br>
           <small>81,440 views </small>
         </p>
@@ -1638,7 +1638,7 @@ https://www.facebook.com/mikeferrigan1/videos/1487418231315541/
           <br>
           Here in MD, beginning of Sept, the oak leaves are beginning to fall to the ground. But, my english laurel and other holly bushes are all putting on new growth, just like in spring. And today, I happened across this:
           <br>
-          <img src="flower.jpg"/>
+          <img src="static/media/flower.jpeg"/>
           <br>
           A bloom - I started to tear up - too much for this old woman to take - especially one with grandkids...
           <br>
