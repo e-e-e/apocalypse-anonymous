@@ -2,7 +2,7 @@
   <div class="sans-serif bg-light-gray">
     <a-a-header></a-a-header>
     <a-a-content>
-    
+
       <!--POST 1-->
       <a-a-post>
         <p>
@@ -170,7 +170,7 @@
         <p>
           <b>Plaj5: 10 September 2017</b>
            <br></br>
-            <img src="https://i.redditmedia.com/n81IJgQxe0L823ED2XA19ow_5gZHLWQDwpBsE9ebny4.jpg?w=500&s=f8e622ef89cbde083ee29fc98467572a"/>
+            <img src="static/media/flights.jpg"/>
            <br></br>
           <small>3,980 views </small>
         </p>
