@@ -7,13 +7,13 @@
       <b>Apocalypse Anonymous:
       Global Collapse Support Group</b>
       <br></br>
-      5,241 members (17 new)
+      5,241 members <span class="red">(17 new)</span>
       <br></br>
-      GROUP TYPE: Support
+      <b>GROUP TYPE:</b> Support
       <br></br>
-      TAGS: Climate Change, Global Warming, Extinction, Support, Prepping, Disaster, SHTF, Doomer
+      <b>TAGS:</b> Climate Change, Global Warming, Extinction, Support, Prepping, Disaster, SHTF, Doomer
       <br></br>
-      DESCRIPTION:
+      <b>DESCRIPTION:</b>
       Hi everyone! This group is for information, support, and sharing of our skills for coping with inevitable, imminent human extinction.
       We are a group of people that identify as doomers.  We are aware of that there is no turning back from ecological and societal collapse as a result of global human intervention into the environment:  population overshoot, global warming, industrialisation, & overconsumption are the nails in the coffin.
 
