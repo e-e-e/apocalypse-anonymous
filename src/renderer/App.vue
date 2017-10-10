@@ -14,7 +14,7 @@
           </video>
         </div>
         <p> <small>24,560 views </small></p>
-        <i class="fa fa-thumbs-o-up grow"></i>
+        <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -34,7 +34,7 @@
            <br></br>
           <small>46,972 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -58,7 +58,7 @@
              <br></br>
           <small>28,456 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -134,7 +134,7 @@
              <br></br>
           <small>89,375 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -154,7 +154,7 @@
            <br></br>
           <small>67,923 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -174,7 +174,7 @@
            <br></br>
           <small>3,980 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -195,7 +195,7 @@
            <br></br>
           <small>67,946 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -224,7 +224,7 @@
            <br></br>
           <small>38,731 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -275,7 +275,7 @@
            <br></br>
           <small>102,538 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -295,7 +295,7 @@
            <br></br>
           <small>45,689 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -315,7 +315,7 @@
            <br></br>
           <small>89,362 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -359,7 +359,7 @@
            <br></br>
           <small>73,112 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -381,7 +381,7 @@
            <br></br>
           <small>91,285 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -405,7 +405,7 @@
            <br></br>
           <small>23,491 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -436,7 +436,7 @@
            <br></br>
           <small>76,354 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -471,7 +471,7 @@
            <br></br>
           <small>75,349 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -492,7 +492,7 @@
            <br></br>
           <small>19,442 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -522,7 +522,7 @@
            <br></br>
           <small>87,471 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -545,7 +545,7 @@
            <br></br>
           <small>96,538 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -579,7 +579,7 @@
            <br></br>
           <small>33,143 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -636,7 +636,7 @@
            <br></br>
           <small>74,983 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -664,7 +664,7 @@
            <br></br>
           <small>34,998 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -690,7 +690,7 @@
            <br></br>
           <small>44,976 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -720,7 +720,7 @@
           <img src="static/media/algae.png" class="w-100"/>
           <small>29,774 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -747,7 +747,7 @@
            <br></br>
           <small>37,882 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -782,7 +782,7 @@
            <br></br>
           <small>56,394 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -809,7 +809,7 @@
            <br></br>
           <small>45,683 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -858,7 +858,7 @@
            <br></br>
           <small>32,894 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -881,7 +881,7 @@
            <br></br>
           <small>77,485 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -910,7 +910,7 @@
            <br></br>
           <small>99,468 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -957,7 +957,7 @@
            <br></br>
           <small>11,988 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1004,7 +1004,7 @@
            <br></br>
           <small>14,769 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1051,7 +1051,7 @@
            <br></br>
           <small>67,332 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1106,7 +1106,7 @@
            <br></br>
           <small>23,594 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1135,7 +1135,7 @@
            <br></br>
           <small>56,932 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1163,7 +1163,7 @@
            <br></br>
           <small>67,450 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1194,7 +1194,7 @@
            <br></br>
           <small>56,332 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1246,7 +1246,7 @@
            <br></br>
           <small>96,228 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1278,7 +1278,7 @@
            <br></br>
           <small>43,771 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1301,7 +1301,7 @@
            <br></br>
           <small>26,374 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1354,7 +1354,7 @@
            <br></br>
           <small>26,339 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1394,7 +1394,7 @@
            <br></br>
           <small>28,445 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1417,7 +1417,7 @@
            <br></br>
           <small>29,142 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1440,7 +1440,7 @@
            <br></br>
           <small>34,538 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1478,7 +1478,7 @@
            <br></br>
           <small>48,299 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1505,7 +1505,7 @@
            <br></br>
           <small>38,362 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1544,7 +1544,7 @@
            <br></br>
           <small>85,249 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1571,7 +1571,7 @@
            <br></br>
           <small>47,234 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1597,7 +1597,7 @@
            <br></br>
           <small>81,440 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1626,7 +1626,7 @@
            <br></br>
           <small>76,492 views </small>
         </p>
-          <i class="fa fa-thumbs-o-up grow"></i>
+          <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1653,7 +1653,7 @@
            <br></br>
           <small>20,488 views </small>
         </p>
-        <i class="fa fa-thumbs-o-up grow"></i>
+        <div class="heart"></div>
         <!-- comments -->
         <hr>
         <form>
@@ -1721,9 +1721,20 @@
       });
       $('input').prop('disabled', true);
       $('textarea').prop('disabled', true);
+      /* when a user clicks, toggle the 'is-animating' class */
+      $(".heart").on('click touchstart', function(){
+        $(this).toggleClass('is_animating');
+      });
+
+      /*when the animation is over, remove the class*/
+      $(".heart").on('animationend', function(){
+        $(this).toggleClass('is_animating');
+      });
+
     },
 };
 </script>
 
-<style lang="scss">
+<style lang="css">
+  
 </style>
